@@ -3,5 +3,6 @@
   "citation": "USGS Biodiversity Information Serving Our Nation (BISON) IPT",
   "url": "https://ipt.gbif.us/rss.do",
   "hasDependencies": false,
+  "include": ".*[bB]ee.*",
   "shouldResolveReferences": false
 }
